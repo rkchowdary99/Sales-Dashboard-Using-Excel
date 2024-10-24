@@ -2,11 +2,11 @@
 
 Sales Performance Dashboard
 
-Project Description:
+### Project Description:
 
-This project is an Excel-based Sales Performance Dashboard designed to provide a comprehensive overview of a company's sales data. The dashboard offers insights into various aspects of sales, including trends over time, sales by geographic region, customer segmentation, and product performance. It is an essential tool for understanding business performance and making data-driven decisions.
+<h4>This project is an Excel-based Sales Performance Dashboard designed to provide a comprehensive overview of a company's sales data. The dashboard offers insights into various aspects of sales, including trends over time, sales by geographic region, customer segmentation, and product performance. It is an essential tool for understanding business performance and making data-driven decisions.</h4>
 
-Key Features:
+### Key Features:
 
 Sales Trends:
 
@@ -39,7 +39,7 @@ Delves deeper into sales within product categories by exploring sub-categories l
 Helps in understanding the performance of specific products.
 
 
-Data Overview:
+### Data Overview:
 
 The project uses a detailed sales dataset with the following fields:
 
@@ -56,7 +56,7 @@ Sales Data: Includes sales amount, region, and state, helping to map out sales p
 The dataset is organized to enable easy analysis of both individual transactions and aggregated sales data.
 
 
-Insights Delivered:
+### Insights Delivered:
 
 Trend Analysis: Shows how sales fluctuate over time, identifying seasonal trends and opportunities for growth.
 
@@ -67,11 +67,13 @@ Customer Segmentation: Helps to prioritize marketing efforts towards high-revenu
 Product Analysis: Highlights best-performing products and sub-categories, offering valuable insights for inventory and marketing strategies.
 
 
-Technologies Used:
+### Technologies Used:
 
 Microsoft Excel: Used for data analysis and visualization through pivot tables, charts, and dashboards.
 
-How to Use the Dashboard:
+
+
+### How to Use the Dashboard:
 
 Download the Excel file from this repository.
 
